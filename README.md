@@ -18,13 +18,6 @@ The built-in Iris dataset from scikit-learn is used. It contains four numeric fl
 
 No external dataset download is required.
 
-## Project Structure
-```text
-KNN-Iris-Classification/
-├── KNN_Iris_Classification.ipynb
-├── README.md
-└── requirements.txt
-```
 
 ## Installation
 ```bash
